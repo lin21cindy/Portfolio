@@ -4,6 +4,7 @@ p {
   Font-size: 35px;
   color: #E67E22;
   background-color: #F1C40F;
+  border-width: 10px;
   border-style: dashed solid dashed double;
   
   } 
