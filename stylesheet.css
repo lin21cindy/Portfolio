@@ -1,10 +1,13 @@
 p {
-  Font-family: "Times New Roman",serif;
-  Font-style: italic;
-  Font-size: 35px;
+  font-family: "Times New Roman",serif;
+  font-style: italic;
+  font-size: 35px;
   color: #E67E22;
   background-color: #F1C40F;
   border-width: 10px;
-  border-style: dashed solid dashed double;
-  
+  border-style: dashed double dashed double;
+  border-color:#C0392B;
+  padding: 10px;
+  margin:10px;
+  float: right;
   } 
